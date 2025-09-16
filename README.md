@@ -20,4 +20,4 @@ This repo contains a Python script that computes **switching probabilities** of 
 - Converts rates to **switching probability** for a square pulse of length \$(t_p\$):  
   \$(\displaystyle P_\mathrm{switch}(I)=1-e^{-\Gamma(I)\,t_p}\$)
 - Plots \$(P_\mathrm{switch}\$) for **MQT (T≈0)** and **thermal** at user-set temperatures (e.g., 20 mK, 200 mK).
-- Prints a **crossover temperature estimate** \$(T^\star \approx \hbar\omega_p/(2\pi k_B)\$) at mid-bias
+- Prints a **crossover temperature estimate** \$( T^\star \approx \hbar\omega_p/(2\pi k_B) \$) at mid-bias
