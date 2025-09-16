@@ -16,7 +16,7 @@ This repo contains a Python script that computes **switching probabilities** of 
   - **Thermal (Kramers)**: \$(\Gamma_\mathrm{th}\approx \frac{\omega_p}{2\pi}\,e^{-\Delta U/k_BT}\$)
   - **MQT (underdamped cubic WKB)**:  
     \$(\displaystyle \Gamma_\mathrm{MQT}\approx \frac{\omega_p}{2\pi}\sqrt{\frac{864\,\Delta U}{\hbar\omega_p}}\,
-    \exp\!\left[-\frac{36\,\Delta U}{5\hbar\omega_p}\right]\$)
+    \exp\ \left[-\frac{36\,\Delta U}{5\hbar\omega_p}\right]\$)
 - Converts rates to **switching probability** for a square pulse of length \$(t_p\$):  
   \$(\displaystyle P_\mathrm{switch}(I)=1-e^{-\Gamma(I)\,t_p}\$)
 - Plots \$(P_\mathrm{switch}\$) for **MQT (T≈0)** and **thermal** at user-set temperatures (e.g., 20 mK, 200 mK).
