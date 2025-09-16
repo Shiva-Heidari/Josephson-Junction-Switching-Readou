@@ -2,7 +2,7 @@
 
 # Josephson Junction Switching Curves: Thermal vs Quantum Escape
 
-This repo contains a Python script that computes **switching probabilities** of a current-biased Josephson junction (JJ) under a square bias pulse. It compares **macroscopic quantum tunneling (MQT)** to **thermal activation** and plots the resulting **S-curves** \$(P_\mathrm{switch}(I)\$).
+This repo contains a Python script that computes **switching probabilities** of a current-biased Josephson junction (JJ) under a square bias pulse. It compares **macroscopic quantum tunneling (MQT)** to **thermal activation** and plots the resulting **S-curves** \$( P_\mathrm{switch}(I) \$).
 
 > Great for showcasing **plasmon/phase-qubit** intuition: washboard potential, plasma frequency, barrier height, and the quantum–thermal crossover.
 
