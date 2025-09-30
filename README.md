@@ -1,4 +1,4 @@
-# Josephson-Junction-Switching-Readou
+# Josephson-Junction-Switching-Readout
 
 # Josephson Junction Switching Curves: Thermal vs Quantum Escape
 
